@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="SudokuMainWindow">
+    </qresource>
+</RCC>
